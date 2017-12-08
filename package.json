@@ -6,6 +6,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "kafka-node": "^2.3.0"
+    "kafka-node": "^2.3.0",
+    "no-kafka": "^3.2.8"
   }
 }
